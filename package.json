@@ -1,0 +1,23 @@
+{
+  "name": "-ClassAppChallenge",
+  "version": "1.0.0",
+  "description": "Desafio da ClassApp de manipulação de arquivos .csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelsantostw/-ClassAppChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelsantostw/-ClassAppChallenge/issues"
+  },
+  "homepage": "https://github.com/rafaelsantostw/-ClassAppChallenge#readme",
+  "dependencies": {
+    "fast-csv": "^4.1.3"
+  }
+}
